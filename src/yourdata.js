@@ -13,7 +13,9 @@ export default
         //Contact Email
         contactEmail:'kaustubh.vasagadekar10.com',
         // Add Your About Text Here
-        abouttext: ".",
+        abouttext: "I'm a product designer based in sunny Sydney, Australia.
+
+I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not coding, tweeting or pushing pixels, you'll find me cooking, gardening or working out in the park..",
         aboutImage:'https://i.pinimg.com/originals/92/88/59/9288597ec595b48aa1907d47eefd5047.jpg',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
